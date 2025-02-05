@@ -12,7 +12,7 @@
 <h1>Lavanya's VIS site</h1>
 
 <div class="container">
-    <img src="/my-vis-5609/Dog.jpg" alt="Funny Cat" width="300px" />
+    <img src="/my-vis-5609/Dog.jpg" alt="Funny Dog" width="300px" />
 
     <p>
         You can click up to 
